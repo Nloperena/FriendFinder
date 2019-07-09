@@ -43,7 +43,7 @@ module.exports = function (app) {
       for (j = 0; j < friends.scores.length; j++) {
         var currentFriendScore = currentFriend.scores[j];
         if (scoreDifference < bestMatch.difference) {
-          
+
         }
       }
     }
@@ -64,16 +64,6 @@ module.exports = function (app) {
 
 // We will use this object to hold the "best match". We will constantly update it as we
 // loop through all of the options
-
-bestMatch = {
-
-}
-for (i = 0; i < friends.length; i++) {
-
-
-
-
-}
 // Here we take the result of the user"s survey POST and parse it.
 
 // This variable will calculate the difference between the user"s scores and the scores of
