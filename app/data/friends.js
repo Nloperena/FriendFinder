@@ -9,15 +9,66 @@
 // ===============================================================================
 
 
+
+
 var friends = [
   {
       name: "name",
-      picture: "<img image url>"
-      score:,
-
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
+  },
+  {
+      name: "name",
+      picture: "<img image url>",
+      scores: []
   },
 
 ];
 
 // Here we export the array. This makes it accessible to other files using require.
-
+module.exports = friends;
