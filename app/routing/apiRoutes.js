@@ -43,7 +43,7 @@ module.exports = function (app) {
       for (j = 0; j < friends.scores.length; j++) {
         var currentFriendScore = currentFriend.scores[j];
         if (scoreDifference < bestMatch.difference) {
-
+          
         }
       }
     }
