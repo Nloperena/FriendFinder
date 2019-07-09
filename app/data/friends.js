@@ -15,57 +15,57 @@ var friends = [
   {
       name: "Jim",
       picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-      scores: [4, 3, 3, 2, 3, 1, 4, 3, 4, 2, 3, 2]
+      scores: [4, 3, 3, 2, 3, 1, 4, 3, 4, 2,]
   },
   {
       name: "John",
       picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-      scores: [1, 1, 1, 1, 2, 5, 4, 3, 2, 4, 2, 1]
+      scores: [1, 1, 1, 1, 2, 5, 4, 3, 2, 4,]
   },
   {
       name: "Jake from Statefarm",
-      picture: "<img image url>",
-      scores: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+      picture: "https://i.kym-cdn.com/entries/icons/original/000/017/912/uhh_khakis.png",
+      scores: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   },
   {
       name: "Jesus",
       picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-      scores: [1, 2, 3, 4, 2, 2, 2, 2, 4, 2, 4, 3]
+      scores: [1, 2, 3, 4, 2, 2, 4, 2, 4, 3]
   },
   {
       name: "Jamie",
       picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-      scores: [1, 5, 2, 5, 5, 5, 1, 2, 3, 5, 4, 2]
+      scores: [1, 5, 2, 5, 1, 2, 3, 5, 4, 2]
   },
   {
       name: "Jerry",
       picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-      scores: [1, 2, 2, 2, 5, 3, 2, 3, 3, 5, 4, 2]
+      scores: [1, 2, 5, 3, 2, 3, 3, 5, 4, 2]
   },
   {
       name: "Joe",
       picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-      scores: [1, 2, 3, 4, 5, 5, 5, 4, 4, 2, 3, 2]
+      scores: [3, 4, 5, 5, 5, 4, 4, 2, 3, 2]
   },
   {
       name: "Jasmin",
       picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-      scores: [3, 4, 3, 4, 1, 2, 5, 4, 3, 3, 3, 2]
+      scores: [3, 4, 3, 2, 5, 4, 3, 3, 3, 2]
   },
   {
       name: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
       picture: "<img image url>",
-      scores: [2, 5, 3, 2, 5, 4, 2, 5, 4, 2, 1, 2]
+      scores: [2, 2, 5, 4, 2, 5, 4, 2, 1, 2]
   },
   {
       name: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
       picture: "<img image url>",
-      scores: [4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 1, 2]
+      scores: [4, 4, 4, 4, 4, 5, 5, 4, 1, 2]
   },
   {
       name: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
       picture: "<img image url>",
-      scores: [3, 2, 3, 4, 5, 3, 2, 3, 3, 5, 4, 2]
+      scores: [3, 2, 3, 4, 5, 3, 2, 5, 4, 2]
   },
 
 ];
