@@ -1,19 +1,23 @@
-// You should save your application's data inside of app/data/friends.js as an 
-// array of objects. Each of these objects should roughly follow the format below.
+// ===============================================================================
+// DATA
+// Below data will hold all of the possible friends.
+// Start with an array that hold 10 object to coincide with the 10 questions 
+//each object will have a key value pair of
+//name: (a string of the person name)
+// photo (with a link)
+// scores array (10 strings to coincide with the answers options)
+// ===============================================================================
 
-// {
-//     "name":"Ahmed",
-//     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-//     "scores":[
-//         5,
-//         1,
-//         4,
-//         4,
-//         5,
-//         1,
-//         2,
-//         5,
-//         4,
-//         1
-//       ]
-//   }
+
+var friends = [
+  {
+      name: "name",
+      picture: "<img image url>"
+      score:,
+
+  },
+
+];
+
+// Here we export the array. This makes it accessible to other files using require.
+
